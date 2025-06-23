@@ -1,2 +1,2 @@
 # basic_python
-This is basic python python project 
+This is basic python project 
